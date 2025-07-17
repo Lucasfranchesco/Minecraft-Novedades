@@ -1,6 +1,6 @@
 :root{
-    --imagebackground: Url("Imagenes/Fondo_pagina.jpg");
-    --imagechange: Url("Imagenes/Luna_minecraft.png");
+    --imagebackground: Url("Fondo_pagina.jpg");
+    --imagechange: Url("Luna_minecraft.png");
 }
 
 header{
@@ -201,8 +201,8 @@ footer{
 }
 
 #Tema:checked~ .contenedor .fondo {
-    --imagebackground:Url("Imagenes/Fondo_pagina_noche.jpg");
-    --imagechange:Url("Imagenes/Sol_Minecraft.png");
+    --imagebackground:Url("Fondo_pagina_noche.jpg");
+    --imagechange:Url("Sol_Minecraft.png");
 }
 
 /*Animaciones*/
